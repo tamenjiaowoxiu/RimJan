@@ -1,4 +1,5 @@
 # RimJan
+This is a internet of vue and it's a edition 1.0.I will update to perfect edition. Thank for look.
 Vue 阿里瓜瓜社区版论坛
 文件我基本乱放了，因为不会整理文件
 你们看着来，要跑的话，改动三个就行，router还有main.js、组件
