@@ -1,11 +1,7 @@
 # RimJan
 This is a internet of vue and it's a edition 1.0.I will update to perfect edition. Thank for look.
-Vue 阿里瓜瓜社区版论坛
-文件我基本乱放了，因为不会整理文件
-你们看着来，要跑的话，改动三个就行，router还有main.js、组件
-剩下的直接粘进去就行。
-
-
+软件工程大作业，我和我的小组设计了一个基于Vue框架的博客社区，我是负责前端部分，到时候会把后端给附加上去，希望大家能喜欢！
+感谢三连！
  
 主页面
 ![image](https://user-images.githubusercontent.com/87056705/206606431-0157f28c-64e1-441c-9da4-1dfb4dd67d79.png)
@@ -20,6 +16,6 @@ Vue 阿里瓜瓜社区版论坛
 评论区
 ![4d20cfeed914db9cb8b65b0e11df188](https://user-images.githubusercontent.com/87056705/206606277-17d8cf86-e7af-496d-b610-36427789b630.png)
 
-
+THANK FOR YOUR STAR
 
 
